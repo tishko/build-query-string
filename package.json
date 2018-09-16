@@ -1,0 +1,31 @@
+{
+  "name": "build-query-string",
+  "version": "1.0.0",
+  "description": "Build url query string from JSON",
+  "main": "index.js",
+  "scripts": {
+     "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/tishko/build-query-string.git"
+  },
+  "keywords": [
+    "build",
+    "encode",
+    "param",
+    "parameter",
+    "string",
+    "url",
+    "query"
+  ],
+  "author": {
+    "name": "Alex Tishko",
+    "url": "https://github.com/tishko"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tishko/build-query-string/issues"
+  },
+  "homepage": "https://github.com/tishko/build-query-string"
+}
