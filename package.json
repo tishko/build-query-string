@@ -4,7 +4,7 @@
   "description": "Build url query string from JSON",
   "main": "index.js",
   "scripts": {
-     "test": ""
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -27,5 +27,8 @@
   "bugs": {
     "url": "https://github.com/tishko/build-query-string/issues"
   },
-  "homepage": "https://github.com/tishko/build-query-string"
+  "homepage": "https://github.com/tishko/build-query-string",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
 }
