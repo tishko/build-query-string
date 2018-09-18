@@ -17,7 +17,7 @@
  
  With [npm](https://npmjs.org) do
  ```bash
- $ npm i build-query-string
+ $ npm i build-query-string --save
  ```
 
   ## License
