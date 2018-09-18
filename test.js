@@ -9,7 +9,7 @@ describe('buildQueryString', function() {
   it('should return result string', function() {
     assert.equal(
       buildQueryString({ user: 12, mobile: 'AT&T', device: 'iPhone' }),
-      'user=12&mobile=AT%26T&device=iPhone',
+      'user=12&mobile=AT%26T&device=iPhone'
     );
   });
 

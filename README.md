@@ -1,5 +1,6 @@
- [![Version](https://img.shields.io/npm/v/build-query-string.svg)](https://www.npmjs.com/package/build-query-string)
- [![Downloads](https://img.shields.io/npm/dt/build-query-string.svg)](https://www.npmjs.com/package/build-query-string)
+ [![build status](https://api.travis-ci.com/tishko/build-query-string.svg)](https://travis-ci.com/tishko/build-query-string)
+ [![version](https://img.shields.io/npm/v/build-query-string.svg)](https://www.npmjs.com/package/build-query-string)
+ [![downloads](https://img.shields.io/npm/dm/build-query-string.svg)](https://www.npmjs.com/package/build-query-string)
  
  # build-query-string
  
