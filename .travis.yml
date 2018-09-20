@@ -7,3 +7,5 @@ node_js:
   - 7
   - 8
   - "stable"
+after_success:
+  - npm run coveralls
