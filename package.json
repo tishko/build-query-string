@@ -4,7 +4,9 @@
   "description": "Build url query string from JSON",
   "main": "index.js",
   "scripts": {
-    "test": "mocha"
+    "test": "mocha",
+    "cover": "istanbul cover _mocha",
+    "coveralls": "npm run cover -- --report lcovonly && cat ./coverage/lcov.info | coveralls"
   },
   "testling": {
     "files": "test.js",
@@ -45,6 +47,9 @@
   },
   "homepage": "https://github.com/tishko/build-query-string",
   "devDependencies": {
-    "mocha": "^5.2.0"
+    "coveralls": "^3.0.2",
+    "istanbul": "^0.4.5",
+    "mocha": "^5.2.0",
+    "mocha-lcov-reporter": "^1.3.0"
   }
 }
