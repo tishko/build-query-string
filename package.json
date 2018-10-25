@@ -1,7 +1,7 @@
 {
   "name": "build-query-string",
-  "version": "1.2.0",
-  "description": "Build url query string from an object",
+  "version": "1.2.1",
+  "description": "Build url query string from object",
   "main": "index.js",
   "scripts": {
     "test": "mocha",
